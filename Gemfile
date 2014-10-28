@@ -10,7 +10,7 @@ gem 'rspec-rails'
 # for Heroku deployment - as described in Ap A of ELLS book
 group :development, :test do
   gem 'sqlite3'
-  gem 'simplecov', :require => 'false'
+  gem 'simplecov', :require => false
   gem 'debugger'
   gem 'database_cleaner'
   gem 'capybara'
