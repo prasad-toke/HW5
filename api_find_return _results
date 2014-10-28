@@ -1,0 +1,11 @@
+#<Tmdb::Movie:0xa4f3620 
+@adult=false, 
+@backdrop_path=nil, 
+@id=250845, 
+@original_title="WWA The Inception", 
+@release_date="2001-10-26", 
+@poster_path=nil, 
+@popularity=0.000285739733365959, 
+@title="WWA The Inception", 
+@vote_average=0.0, 
+@vote_count=0> 
